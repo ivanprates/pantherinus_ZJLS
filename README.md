@@ -4,4 +4,4 @@ This repository contains information associated with the manuscript above, accep
 
 The following information is provided:
 
-R and Unix shell scripts used to prepare and filter the data and perform all analyses.
+R and Unix shell scripts used to prepare and filter the data and perform the analyses.
