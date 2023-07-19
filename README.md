@@ -11,4 +11,4 @@ The manuscript is available at:
 
 https://academic.oup.com/zoolinnean/advance-article/doi/10.1093/zoolinnean/zlac076/6754905
 
-A PDF copy of the manuscript is available at [ivanprates.org/publications](https://www.ivanprates.org/publications).
+A PDF copy of the manuscript is available at https://www.ivanprates.org/publications.
